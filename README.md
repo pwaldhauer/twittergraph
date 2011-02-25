@@ -4,7 +4,7 @@ Some scripts to build some kind of graph based on the conversions a twitter user
 
 Example: http://knuspermagier.de/2011-striche-und-bildchen.html
 
-It's _very poorly written_ and hacked together in a couple of hours and was more like a test of <svg>-Stuff, since I never did that before. It's also lacking some meaningful algorithm for aligning the nodes nice. 
+It's _very poorly written_ and hacked together in a couple of hours and was more like a test of svg stuff, since I never did that before. It's also lacking some meaningful algorithm for aligning the nodes nice. 
 
 The import script is not very optimized to work with Twitter's API limit, you need to call it several times until fetching is complete.
 
