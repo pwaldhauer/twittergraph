@@ -8,7 +8,7 @@ It's _very poorly written_ and hacked together in a couple of hours and was more
 
 The import script is not very optimized to work with Twitter's API limit, you need to call it several times until fetching is complete.
 
-The whole thing is more like a proof of concept, i would be pleased if someone takes this and makes it nicer.
+The whole thing is more like a proof of concept, i would be pleased if someone improves it.
 
 ## 1. Requirements
 
